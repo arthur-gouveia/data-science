@@ -1,0 +1,6 @@
+structure(list(Nome = structure(c(2L, 1L, 3L, 4L), .Label = c("Amanda", 
+"Arthur", "Carolina", "Henrique"), class = "factor"), Idade = c(37L, 
+38L, 0L, 38L), Renda = c(4900, 6000, 0, 22000), Sexo = structure(c(2L, 
+1L, 1L, 2L), .Label = c("F", "M"), class = "factor")), .Names = c("Nome", 
+"Idade", "Renda", "Sexo"), class = "data.frame", row.names = c(NA, 
+-4L))
